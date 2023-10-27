@@ -7,4 +7,4 @@
 » Sass / Scss <br>
 » React JS
 
-</div>\
+</div>

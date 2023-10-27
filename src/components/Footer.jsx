@@ -37,7 +37,8 @@ function Footer() {
                   rel="noreferrer"
                   href="https://figma.com/"
                 >
-                  Design by Material UI & Figma
+                  Design by Material UI & Figma <br />
+                  Developed by Kaushal Mallah
                 </a>
               </li>
             </ul>

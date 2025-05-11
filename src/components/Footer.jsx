@@ -24,9 +24,9 @@ function Footer() {
                 <a
                   href="mailto: 
                 carrental@gmail.com"
-                >
+                >   
                   <IconMail />
-                  &nbsp; carrental@gmail.com
+                  &nbsp; kaushalmallah@gmail.com
                 </a>
               </li>
 
